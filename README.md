@@ -21,6 +21,12 @@ Applied Machine Learging & Financial Modeling Deep-Dive
 - Task 4: 인공신경망(ANN/DNN) vs 선형 회귀 비교
   > Keras를 활용하여 단일 은닉층(ANN) 및 다중 은닉층(DNN) 모델 구축.
   > 선형 회귀 모델과의 성능 비교를 통해 데이터의 비선형성이 딥러닝 모델의 성능 향상에 기여하는 정도를 정량적으로 평가.
+
+<img width="640" height="480" alt="SVM_C_0 0005" src="https://github.com/user-attachments/assets/de1a9e49-0803-40a3-9cc8-cf8546debbbc" />
+<img width="640" height="480" alt="Linear Regression Model" src="https://github.com/user-attachments/assets/6f987a04-b5ef-4b0d-9865-6fe84e4f7281" />
+<img width="900" height="700" alt="IOWA_SVR_Train_Results" src="https://github.com/user-attachments/assets/b1abb075-f582-4ced-8c5c-1b5161657251" />
+<img width="640" height="480" alt="ANN Loss" src="https://github.com/user-attachments/assets/1112712d-ffa2-41b3-b85a-47ffbeecab99" />
+
    
 3. 핵심 역량 (Core Strenghts)
 - 알고리즘 깊이: 모델의 내부 동작 원리를 이해하고 최적의 하이퍼파라미터를 찾아내는 분석력.

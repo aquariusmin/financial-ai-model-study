@@ -8,18 +8,22 @@ Applied Machine Learging & Financial Modeling Deep-Dive
 2. 주요 과제별 수행 내용 (Key Tasks)
 - Task 1: 다항 회귀(Polynominal Regression) 및 주성분 분석(PCA)
     > 다항 회귀: 급여와 연령 데이터를 활용하여 1차부터 5차까지의 다항 회귀 모형을 구축하고, RMSE를 기준으로 과적합(Overfiting)을 최소화 하는 최적의 차수 선정.
+    > 
     > PCA: 국가 데이터(Corruption, Peace, Legal 등)의 차원을 축소하여 핵심 동인을 파악하고, Scree Plot을 통해 데이터 분산의 88% 이상을 설명하는 주성분 추출.
 
 - Task 2: 의사결정나무(Decision Tree) 최적화 분석
   > max_depth와 min_samples_split 파라미터 변화에 따른 Train/Test AUC 변화 추이를 시각화.
+  > 
   > 모델 복잡도와 일반화 성능 사이의 Trade-off를 분석하여 최적의 트리 구조 도출.
 
 - Task 3: SVM & Linear SVR 기반 예측
   > 소프트 마진 SVM의 파라미터 C값 변화에 따른 결정 경계 및 마진 너비 변화 분석.
+  > 
   > IOWA 주택 가격 데이터를 활용하여 Linear SVR 모델의 하이퍼파라미터(C, epsilon) 튜닝 및 MSE 최소화 모델 구축.
 
 - Task 4: 인공신경망(ANN/DNN) vs 선형 회귀 비교
   > Keras를 활용하여 단일 은닉층(ANN) 및 다중 은닉층(DNN) 모델 구축.
+  > 
   > 선형 회귀 모델과의 성능 비교를 통해 데이터의 비선형성이 딥러닝 모델의 성능 향상에 기여하는 정도를 정량적으로 평가.
 
 <img width="640" height="480" alt="SVM_C_0 0005" src="https://github.com/user-attachments/assets/de1a9e49-0803-40a3-9cc8-cf8546debbbc" />
